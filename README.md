@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedrocassioamorim.
-- 👀 I’m interested in Artificial intelligence.
-- 🌱 I’m currently learning Computer Theory and Artificial Intelligence.
-- 💞️ I’m looking to collaborate on Machine Learning Projects.
+- 👀 I’m interested in Java Backend Development.
+- 🌱 I’m currently harnessing my Spring Boot skills.
+- 💞️ I’m looking to collaborate on Real Projects.
 - 📫 How to reach me by e-mail: amorimpedrocassio@gmail.com
 
 <!---
