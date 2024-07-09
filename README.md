@@ -80,5 +80,5 @@ I am always open to discussing new projects, collaborations, or opportunities.
 Feel free to reach out to me via LinkedIn or [Email](amorimpedrocassio@hotmail.com).
 
 <a href="https://www.linkedin.com/in/pedrocassioamorim/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
