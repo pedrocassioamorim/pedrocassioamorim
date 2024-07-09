@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrocassioamorim.
 - 👀 I’m a Back-end Engineer, focused in Java EE environments such as Spring Boot and Quarkus, with a strong Cloud background.
 - 🌱 Born and raised at the Brazilian Amazon Florest and I'm able to speak English, French, Spanish and native Portuguese.
-- 💞️ I’m also interest in emerging techs such as Python, Go Lang, Solidity and Apex.
+- 💞️ I’m also interest in emerging techs such as Python, Go Lang, Solidity and Apex ecosystems.
 - 📫 How to reach me by e-mail or teams: amorimpedrocassio@hotmail.com
