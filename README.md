@@ -64,15 +64,15 @@ I also enjoy experimenting with Front-end technologies, like:
 🥷🏼 What I Bring:
 -
 
-  - Technical Expertise: Deep understanding of Java EE and back-end development principles.
+  - **Technical Expertise**: Deep understanding of Java EE and back-end development principles.
     
-  - Problem-Solving: Strong analytical skills to identify and resolve complex technical issues efficiently.
+  - **Problem-Solving**: Strong analytical skills to identify and resolve complex technical issues efficiently.
 
-  - Collaboration: Proven ability to work effectively in cross-functional and multicultural teams.
+  - **Collaboration**: Proven ability to work effectively in cross-functional and multicultural teams.
     
-  - Adaptability: Experience working in diverse international environments, enhancing my adaptability and problem-solving skills.
+  - **Adaptability**: Experience working in diverse international environments, enhancing my adaptability and problem-solving skills.
   
-  - Continuous Learning: Commitment to staying updated with the latest industry trends and technologies.
+  - **Continuous Learning**: Commitment to staying updated with the latest industry trends and technologies.
 
 
 📫 Get in Touch
