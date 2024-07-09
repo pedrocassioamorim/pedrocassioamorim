@@ -34,8 +34,6 @@ Java Back-end Developer for [Chiqueolatte Franchise](https://chiqueolatte.com/) 
   - Problem-Solving: Strong analytical skills to identify and resolve complex technical issues efficiently.
 
   - Collaboration: Proven ability to work effectively in cross-functional and multicultural teams.
-
-  - Collaboration: Proven ability to work effectively in cross-functional and multicultural teams.
     
   - Adaptability: Experience working in diverse international environments, enhancing my adaptability and problem-solving skills.
   
