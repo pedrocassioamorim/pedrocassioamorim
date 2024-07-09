@@ -2,13 +2,13 @@
 -
 🌱 Born and raised in North Brazil, at the heart of the Brazilian Amazon Forest, I have a unique perspective and passion for technology and innovation. My journey in programming began at a young age and has taken me across the globe.
 
-👨🏾‍🎓 Professional Highlights - Early Career:
+👨🏾‍🎓 Early Professional Career:
 
 At 17 years old, entered Oil Engineering at [UFAM Federal University](https://ufam.edu.br/) in Manaus, Brazil (2013) 🇧🇷
 
 At 19 years old, started studying programming languages with a scholarship at [ENSCL](https://www.ensc-lille.fr/fr/) in Lille, France (2015) 🇫🇷
   
-🌍 Professional Highlights - International Experience:
+🌍 International Experience:
 
 Software Developer Intern at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
 
