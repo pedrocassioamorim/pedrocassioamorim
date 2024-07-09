@@ -4,9 +4,9 @@
 
 👨🏾‍🎓 Early Professional Career:
 
-At 17 years old, entered Oil Engineering at [UFAM Federal University](https://ufam.edu.br/) in Manaus, Brazil (2013) 🇧🇷
+At 17 years old, I entered Oil Engineering at [UFAM Federal University](https://ufam.edu.br/) in Manaus, Brazil (2013) 🇧🇷
 
-At 19 years old, started studying programming languages with a scholarship at [ENSCL](https://www.ensc-lille.fr/fr/) in Lille, France (2015) 🇫🇷
+At 19 years old, I started studying programming languages with a scholarship at [ENSCL](https://www.ensc-lille.fr/fr/) in Lille, France (2015) 🇫🇷
   
 🌍 International Experience:
 
