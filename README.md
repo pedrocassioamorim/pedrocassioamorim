@@ -20,7 +20,7 @@ Java Back-end Developer at [Chiqueolatte Franchise](https://chiqueolatte.com/) i
 
 🫶🏿 Specialization: Java EE Back-end Engineering ecosystems
 -
-♟️ Main Stacks: Java EE Ecosystem, Microservices and Messaging Frameworks, RESTful APIs, SQL Databases, and Cloud Computing Expertise.
+♟️ **Main Stacks**: Java EE Ecosystem, Microservices and Messaging Frameworks, RESTful APIs, SQL Databases, and Cloud Computing Expertise.
 
 <div display= "inline" >
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />   
@@ -35,7 +35,7 @@ Java Back-end Developer at [Chiqueolatte Franchise](https://chiqueolatte.com/) i
 
 
 
-🪄 Interests: Emerging technologies including Mobile development in Kotlin, Large Language Models in Python, powerful multithreaded microservices in Golang, blockchain development in Solidity, and the Salesforce ecosystem as whole. 
+🪄 **Interests**: Emerging technologies including Mobile development in Kotlin, Large Language Models in Python, powerful multithreaded microservices in Golang, blockchain development in Solidity, and the Salesforce ecosystem as whole. 
 
 <div display="inline">
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
