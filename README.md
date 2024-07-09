@@ -33,17 +33,18 @@ Java Back-end Developer at [Chiqueolatte Franchise](https://chiqueolatte.com/) i
 
 
 
-🪄 Interests: Emerging technologies including Large Language Models, multithreaded microservices, blockchain development, and the Salesforce ecosystem. 
+🪄 Interests: Emerging technologies including Mobile development in Kotlin, Large Language Models in Python, powerful multithreaded microservices in Golang, blockchain development in Solidity, and the Salesforce ecosystem as whole. 
 
 <div display="inline">
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" /> 
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
+
 </div>       
 
 I also enjoy experimenting with Front-end technologies, like:
