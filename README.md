@@ -14,7 +14,7 @@ Software Developer Intern at [NTNU Materials Engineering Department](https://www
 
 Worked at Brazilian multinationals such as [XP Inc.](https://www.xpi.com.br/) and [Vibra Energia](https://www.vibraenergia.com.br/) based on many cities (2018-2022) 🇧🇷
 
-Java Back-end Developer for [Chiqueolatte Franchise](https://chiqueolatte.com/) in Den Haag, Netherlands (2022) 🇳🇱
+Java Back-end Developer at [Chiqueolatte Franchise](https://chiqueolatte.com/) in Den Haag, Netherlands (2022) 🇳🇱
 
 🫶🏿 Specialization: Java EE Back-end Engineering ecosystems
 -
