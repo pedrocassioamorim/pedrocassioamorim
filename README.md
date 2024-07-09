@@ -16,6 +16,8 @@ Worked at Brazilian multinationals such as [XP Inc.](https://www.xpi.com.br/) an
 
 Java Back-end Developer at [Chiqueolatte Franchise](https://chiqueolatte.com/) in Den Haag, Netherlands (2022) 🇳🇱
 
+💫 **Languages: Fluent in English, French, Spanish, and native Portuguese.**
+
 🫶🏿 Specialization: Java EE Back-end Engineering ecosystems
 -
 ♟️ Main Stacks: Java EE Ecosystem, Microservices and Messaging Frameworks, RESTful APIs, SQL Databases, and Cloud Computing Expertise.
