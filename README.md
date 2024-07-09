@@ -18,13 +18,41 @@ Java Back-end Developer for [Chiqueolatte Franchise](https://chiqueolatte.com/) 
 
 🫶🏿 Specialization: Back-end Engineering with a focus on Java EE ecosystems.
 -
-♟️ Skills: Java, Spring Boot, Quarkus, Hibernate, Microservices and messaging, RESTful APIs, SQL databases, and AWS Cloud computing. 
+♟️ Stacks: Java EE Ecosystem, Microservices and Messaging Frameworks, RESTful APIs, SQL Databases, and Cloud Computing Expertise.
 
-🪄 Interests: Emerging technologies such as Python, Go Lang, Solidity, and Apex ecosystems.
+<div display= "inline" >
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />   
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />   
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
+</div>
+
+<div display= "inline" >
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+</div>
 
 
 
+🪄 Interests: Emerging technologies including Large Language Models, multithreaded microservices, blockchain development, and the Salesforce ecosystem.
 
+<div display="inline">
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
+          
+
+          
+</div>
+<div display="inline">
+<img width='75' height='75'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />    
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" /> 
+</div>
 
 🥷🏼 What I Bring:
 -
