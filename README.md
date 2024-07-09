@@ -70,5 +70,6 @@ Java Back-end Developer for [Chiqueolatte Franchise](https://chiqueolatte.com/) 
 
 📫 Get in Touch
 -
-I am always open to discussing new projects, collaborations, or opportunities. 
+I am always open to discussing new projects, collaborations, or opportunities.
+
 Feel free to reach out to me via LinkedIn or [Email](amorimpedrocassio@hotmail.com).
