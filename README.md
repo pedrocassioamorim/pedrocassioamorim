@@ -75,10 +75,19 @@ I also enjoy experimenting with Front-end technologies, like:
 
 📫 Get in Touch
 -
-I am always open to discussing new projects, collaborations, or opportunities.
+**I am always open to discussing new projects, collaborations, or opportunities.**
 
-Feel free to reach out to me via LinkedIn or [Email](amorimpedrocassio@hotmail.com).
+Feel free to reach out to me anytime:
 
+<div display="inline">
 <a href="https://www.linkedin.com/in/pedrocassioamorim/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="mailto:amorimpedrocassio@hotmail.com">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+
+
+
+</div>
