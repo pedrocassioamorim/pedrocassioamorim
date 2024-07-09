@@ -12,7 +12,7 @@ At 19 years old, started studying programming languages with a scholarship at [E
 
 Software Developer Intern at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
 
-Worked at Brazilian multinationals such as [XP Investimentos](https://www.xpi.com.br/) and [Vibra Energia](https://www.vibraenergia.com.br/) (2018-2022) 🇧🇷
+Worked at Brazilian multinationals such as [XP Investimentos](https://www.xpi.com.br/) and [Vibra Energia](https://www.vibraenergia.com.br/) based on many cities (2018-2022) 🇧🇷
 
 Java Back-end Developer for [Chiqueolatte Franchise](https://chiqueolatte.com/) in Den Haag, Netherlands (2022) 🇳🇱
 
