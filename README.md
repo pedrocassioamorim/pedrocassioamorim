@@ -10,7 +10,7 @@ At 19 years old, I started studying programming languages within a federal schol
   
 🌍 International Experience:
 
-Software Developer Intern at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
+Intern Developer at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
 
 Worked at Brazilian multinationals such as [XP Inc.](https://www.xpi.com.br/) and [Vibra Energia](https://www.vibraenergia.com.br/) based on many cities (2018-2022) 🇧🇷
 
