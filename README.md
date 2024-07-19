@@ -16,6 +16,8 @@ Worked at Brazilian multinationals such as [XP Inc.](https://www.xpi.com.br/) an
 
 Java Back-end Developer at [Chiqueolatte Franchise](https://chiqueolatte.com/) in Den Haag, Netherlands (2022) 🇳🇱
 
+Java Back-end Developer and Enterpreuner working under my own C2C contracts, remotely from Brazil to anywhere (2023-now) 🇧🇷
+
 <h3>💫 Fluent in English, French, Spanish, and native Portuguese.</h3>
 
 🫶🏿 Specialization: Java EE Back-end Engineering ecosystems
