@@ -63,7 +63,7 @@ I also enjoy experimenting with Front-end technologies, like:
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
 
-🥷🏼 What I Bring:
+🥷🏼 What I Bring to your Company:
 -
 
   - **Technical Expertise**: Deep understanding of Java EE and back-end development principles.
