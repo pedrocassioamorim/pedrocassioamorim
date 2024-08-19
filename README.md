@@ -7,7 +7,7 @@
 At 17 years old, I entered Oil Engineering at [UFAM Federal University](https://ufam.edu.br/) in Manaus, Brazil (2013) 🇧🇷
 
 At 19 years old, I started studying programming languages within a federal scholarship at [ENSCL](https://www.ensc-lille.fr/fr/) in Lille, France (2015) 🇫🇷
-  
+
 🌍 International Experience:
 
 Intern Developer at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
@@ -37,31 +37,21 @@ Java Back-end Developer and Enterpreuner working under my own C2C contracts, rem
 
 
 
-🪄 **Interests**: Emerging technologies including Mobile development in Kotlin, Large Language Models in Python, powerful multithreaded microservices in Golang, blockchain development in Solidity, and the Salesforce ecosystem as whole. 
+🪄 **Interests**: I also enjoy experimenting technologies such as Kotlin Multiplatform Development, Large Language Models in Python, powerful multithreaded microservices in Golang, blockchain development in Solidity and Front-end technologies, like:
 
 <div display="inline">
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" /> 
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
-
-</div>       
-
-I also enjoy experimenting with Front-end technologies, like:
-<div display="inline">
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-</div>
+
+</div>       
+
+
 
 🥷🏼 What do I bring to your Team?
 -
