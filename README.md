@@ -30,13 +30,11 @@ Trabalhei em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas e
 
 Engenheiro de Back-end na Franquia Chiqueolatte em Haia, Países Baixos (2022) 🇳🇱
 
-Java Back-end Developer and Enterpreuner working under my own C2C contracts, remotely from Brazil to anywhere (2023-now) 🌎
+<h3>💫 Fluente em Inglês, Francês, Espanhol e Português nativo.</h3>
 
-<h3>💫 Fluent in English, French, Spanish, and native Portuguese.</h3>
-
-🫶🏿 Specialization: Java EE Back-end Engineering ecosystems
+🫶🏿 Ecossistemas de Engenharia Back-end em Java EE
 -
-♟️ **Main Stacks**: Java EE Ecosystem, Microservices and Messaging Frameworks, RESTful APIs, SQL Databases, and Cloud Computing Expertise.
+♟️ Principais Stacks: Ecossistema Java EE, Microservices e Frameworks de Mensageria, APIs RESTful, Bancos de Dados SQL e Expertise em Computação em Nuvem.
 
 <div display= "inline" >
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />   
@@ -51,7 +49,7 @@ Java Back-end Developer and Enterpreuner working under my own C2C contracts, rem
 
 
 
-🪄 **Interests**: I also enjoy experimenting technologies such as Kotlin Multiplatform Development, Large Language Models in Python, powerful multithreaded microservices in Golang, blockchain development in Solidity and Front-end technologies, like:
+🪄 Interesses: Também gosto de experimentar tecnologias como Desenvolvimento Multiplataforma em Kotlin, Modelos de Linguagem em Python, microserviços multithreaded poderosos em Golang, desenvolvimento em blockchain com Solidity e tecnologias de Front-end, como:
 
 <div display="inline">
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
@@ -67,25 +65,23 @@ Java Back-end Developer and Enterpreuner working under my own C2C contracts, rem
 
 
 
-🥷🏼 What do I bring to your Team?
+🥷🏼 O que eu trago para sua equipe?
+
+    Expertise Técnica: Profundo entendimento dos princípios de desenvolvimento back-end e Java EE.
+
+    Resolução de Problemas: Fortes habilidades analíticas para identificar e resolver problemas técnicos complexos de forma eficiente.
+
+    Colaboração: Capacidade comprovada de trabalhar de forma eficaz em equipes multifuncionais e multiculturais.
+
+    Adaptabilidade: Experiência em trabalhar em ambientes internacionais diversos, o que aprimora minha adaptabilidade e habilidades de resolução de problemas.
+
+    Aprendizado Contínuo: Compromisso em me manter atualizado com as últimas tendências e tecnologias da indústria.
+
+📫 Entre em Contato
 -
+Estou sempre aberto a discutir novos projetos, colaborações ou oportunidades.
 
-  - **Technical Expertise**: Deep understanding of Java EE and back-end development principles.
-    
-  - **Problem-Solving**: Strong analytical skills to identify and resolve complex technical issues efficiently.
-
-  - **Collaboration**: Proven ability to work effectively in cross-functional and multicultural teams.
-    
-  - **Adaptability**: Experience working in diverse international environments, enhancing my adaptability and problem-solving skills.
-  
-  - **Continuous Learning**: Commitment to staying updated with the latest industry trends and technologies.
-
-
-📫 Get in Touch
--
-**I am always open to discussing new projects, collaborations, or opportunities.**
-
-Feel free to reach out to me anytime:
+Sinta-se à vontade para me contatar a qualquer momento:
 
 <div display="inline">
 <a href="https://www.linkedin.com/in/pedrocassioamorim/">
