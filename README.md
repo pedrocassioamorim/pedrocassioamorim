@@ -51,8 +51,6 @@ Aos 20 anos, estagiário de pesquisa no Departamento de Engenharia de Materiais 
 
 Trabalhei em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas em várias cidades (2018-2022) 🇧🇷
 
-Engenheiro de Back-end na Franquia Chiqueolatte em Haia, Países Baixos (2022) 🇳🇱
-
 <h2>💫 Fluente em Inglês, Francês, Espanhol e Português nativo.</h2>
 
 🫶🏿 Conhecimentos em Engenharia Back-end
