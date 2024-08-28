@@ -8,7 +8,7 @@
 
 🌱 Minha afiliação com a ANCORD como agente autônomo de investimentos me proporcionou uma significativa expertise em processos bancários e financeiros.
 
-🌱 Atualmente, atuo como Perito Judicial em Engenharia de Petróleo e Gás e em assuntos multidisciplinares adjacentes, incluindo contratos e operações bancárias, balanços, análise de condições de trabalho, engenharia de poços, engenharia de reservatórios e desenvolvimento back-end.
+🌱 Atualmente, atuo como Perito Judicial em Engenharia de Petróleo e Gás e em assuntos multidisciplinares adjacentes, incluindo contratos e operações bancárias, balanços, análise de condições de trabalho, engenharia de poços, engenharia de reservatórios e engenharia de back-end.
 
 🌱 Explore meus projetos para ver a interseção entre minha expertise técnica e financeira, e sinta-se à vontade para entrar em contato se quiser se conectar ou colaborar!
 
