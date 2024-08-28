@@ -20,7 +20,7 @@
 
 Aos 17 anos, ingressei em Engenharia de Petróleo na UFAM - Universidade Federal do Amazonas, em Manaus, Brasil (2013 - 2019) 🇧🇷
 
-Aos 19 anos, passei no programa público BRAFITEC (Brazil - France Technology) para estudar Engenharia Química na ENSCL, em Lille, França (2015 - 2016) 🇫🇷
+Aos 19 anos, passei no programa público BRAFITEC para estudar Engenharia Química na ENSCL, em Lille, França (2015 - 2016) 🇫🇷
 
 🌍 Experiência Internacional:
 
