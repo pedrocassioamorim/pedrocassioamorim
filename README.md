@@ -1,6 +1,8 @@
 👋 Hello, you'd call me Pedro Cássio
 -
-🌱 Born and raised in North Brazil, at the heart of the Brazilian Amazon Forest, I have a unique perspective and passion for technology and innovation. My journey in programming began at a young age and has taken me across the globe.
+🌱 I'm Pedro Cássio Dias de Amorim, an Engineer in Petroleum and Gas with international experience in Chemical and Materials Engineering. I have worked with Brazilian multinational companies in the oil sector and gained valuable experience in the banking industry. My affiliation with ANCORD as an autonomous investment agent has provided me with significant expertise in banking and financial processes. Currently, I serve as a Judicial Expert in Petroleum and Gas Engineering and Back-end Engineering. Explore my projects to see the intersection of my technical and financial expertise, and feel free to reach out if you'd like to connect or collaborate!
+
+🌱 Born and raised in North Brazil, at the heart of the Brazilian Amazon Forest, I have a unique perspective and passion for technology and innovation. My journey in engineering began at a young age and has taken me across the globe.
 
 👨🏾‍🎓 Early Professional Career:
 
@@ -10,7 +12,7 @@ At 19 years old, I started studying programming languages within a federal schol
 
 🌍 International Experience:
 
-Intern Developer at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
+Intern at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
 
 Worked at Brazilian multinationals such as [XP Inc.](https://www.xpi.com.br/) and [Vibra Energia](https://www.vibraenergia.com.br/) based on many cities (2018-2022) 🇧🇷
 
