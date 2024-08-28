@@ -65,17 +65,17 @@ Engenheiro de Back-end na Franquia Chiqueolatte em Haia, Países Baixos (2022) �
 
 
 
-🥷🏼 O que eu trago para sua equipe?
+🥷🏼 O que eu trago para sua Equipe?
 
-    Expertise Técnica: Profundo entendimento dos princípios de desenvolvimento back-end e Java EE.
+- Expertise Técnica: Profundo entendimento dos princípios de Engenharia de Petróleo e Back-end e entendimento intrínseco do funcionamento de sistemas empresariais.
 
-    Resolução de Problemas: Fortes habilidades analíticas para identificar e resolver problemas técnicos complexos de forma eficiente.
+- Resolução de Problemas: Fortes habilidades analíticas para identificar e descrever problemas técnicos complexos de forma eficiente.
 
-    Colaboração: Capacidade comprovada de trabalhar de forma eficaz em equipes multifuncionais e multiculturais.
+- Colaboração: Capacidade comprovada de trabalhar de forma eficaz em equipes multifuncionais e multiculturais.
 
-    Adaptabilidade: Experiência em trabalhar em ambientes internacionais diversos, o que aprimora minha adaptabilidade e habilidades de resolução de problemas.
+- Adaptabilidade: Experiência em trabalhar em ambientes internacionais diversos, o que aprimora minha adaptabilidade e habilidades de resolução de problemas.
 
-    Aprendizado Contínuo: Compromisso em me manter atualizado com as últimas tendências e tecnologias da indústria.
+- Aprendizado Contínuo: Compromisso em me manter atualizado com as últimas tendências e tecnologias da indústria.
 
 📫 Entre em Contato
 -
