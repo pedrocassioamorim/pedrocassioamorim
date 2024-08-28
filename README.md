@@ -1,32 +1,34 @@
-👋 Hello, you'd call me Pedro Cássio
+👋 Olá, você pode me chamar de Pedro Cássio
 -
-🌱 I'm Petroleum and Gas Engineer with international experience in Chemical and Materials Engineering. 
+🌱 Sou Engenheiro de Petróleo e Gás com experiência internacional em Engenharia Química, Materiais e Computação.
 
-🌱 I have worked with Brazilian multinational companies in the Oil Sector and gained valuable experience in the Banking Industry. 
+🌱 Trabalhei em empresa multinacional brasileira no Setor de Petróleo, onde adquiri uma valiosa experiência com a cadeia de produção, distribuição e comercialização de derivados de petróleo.
 
-🌱 My affiliation with ANCORD as an autonomous investment agent has provided me with significant expertise in banking and financial processes. 
+🌱 Trabalhei em uma grande instituição bancária do país, onde obtive grande expertise em transações financeiras, análises de investimentos mobiliários, análise de riscos, análise de crédito, análise cambial, prevenção a fraudes e combate à lavagem de dinheiro.
 
-🌱 Currently, I serve as a Judicial Expert in Petroleum and Gas Engineering and Back-end Engineering. 
+🌱 Minha afiliação com a ANCORD como agente autônomo de investimentos me proporcionou uma significativa expertise em processos bancários e financeiros.
 
-🌱 Explore my projects to see the intersection of my technical and financial expertise, and feel free to reach out if you'd like to connect or collaborate!
+🌱 Atualmente, atuo como Perito Judicial em Engenharia de Petróleo e Gás e em assuntos multidisciplinares adjacentes, incluindo contratos e operações bancárias, balanços, análise de condições de trabalho, engenharia de poços, engenharia de reservatórios e desenvolvimento back-end.
 
-🌱 Born and raised in North Brazil, at the heart of the Brazilian Amazon Forest, I have a unique perspective and passion for technology and innovation. 
+🌱 Explore meus projetos para ver a interseção entre minha expertise técnica e financeira, e sinta-se à vontade para entrar em contato se quiser se conectar ou colaborar!
 
-🌱 My journey in engineering began at a young age and has taken me across the globe.
+🌱 Nascido e criado no Norte do Brasil, no coração da Floresta Amazônica, tenho uma perspectiva única e uma paixão por tecnologia e inovação.
 
-👨🏾‍🎓 Early Professional Career:
+🌱 Minha jornada na engenharia começou desde jovem e me levou ao redor do mundo.
 
-At 17 years old, I entered Oil Engineering at [UFAM Federal University](https://ufam.edu.br/) in Manaus, Brazil (2013) 🇧🇷
+👨🏾‍🎓 Início da Carreira Profissional:
 
-At 19 years old, I started studying programming languages within a federal scholarship at [ENSCL](https://www.ensc-lille.fr/fr/) in Lille, France (2015) 🇫🇷
+Aos 17 anos, ingressei em Engenharia de Petróleo na UFAM - Universidade Federal do Amazonas, em Manaus, Brasil (2013 - 2019) 🇧🇷
 
-🌍 International Experience:
+Aos 19 anos, passei no programa público BRAFITEC (Brazil - France Technology) para estudar Engenharia Química na ENSCL, em Lille, França (2015 - 2016) 🇫🇷
 
-Intern at [NTNU Materials Engineering Department](https://www.ntnu.edu/ima) in Trondheim, Norway (2016) 🇳🇴
+🌍 Experiência Internacional:
 
-Worked at Brazilian multinationals such as [XP Inc.](https://www.xpi.com.br/) and [Vibra Energia](https://www.vibraenergia.com.br/) based on many cities (2018-2022) 🇧🇷
+Estagiário no Departamento de Engenharia de Materiais da NTNU, em Trondheim, Noruega (2016) 🇳🇴
 
-Java Back-end Developer at [Chiqueolatte Franchise](https://chiqueolatte.com/) in Den Haag, Netherlands (2022) 🇳🇱
+Trabalhei em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas em várias cidades (2018-2022) 🇧🇷
+
+Engenheiro de Back-end na Franquia Chiqueolatte em Haia, Países Baixos (2022) 🇳🇱
 
 Java Back-end Developer and Enterpreuner working under my own C2C contracts, remotely from Brazil to anywhere (2023-now) 🌎
 
