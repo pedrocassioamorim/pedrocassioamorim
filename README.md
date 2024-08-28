@@ -65,7 +65,8 @@ Engenheiro de Back-end na Franquia Chiqueolatte em Haia, Países Baixos (2022) �
 
 
 
-🥷🏼 O que eu trago para sua Equipe?
+🥷🏼 O que eu levo para sua Equipe?
+-
 
 - Expertise Técnica: Profundo entendimento dos princípios de Engenharia de Petróleo e Back-end e entendimento intrínseco do funcionamento de sistemas empresariais.
 
