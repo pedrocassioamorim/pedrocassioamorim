@@ -1,8 +1,18 @@
 👋 Hello, you'd call me Pedro Cássio
 -
-🌱 I'm Pedro Cássio Dias de Amorim, an Engineer in Petroleum and Gas with international experience in Chemical and Materials Engineering. I have worked with Brazilian multinational companies in the oil sector and gained valuable experience in the banking industry. My affiliation with ANCORD as an autonomous investment agent has provided me with significant expertise in banking and financial processes. Currently, I serve as a Judicial Expert in Petroleum and Gas Engineering and Back-end Engineering. Explore my projects to see the intersection of my technical and financial expertise, and feel free to reach out if you'd like to connect or collaborate!
+🌱 I'm Petroleum and Gas Engineer with international experience in Chemical and Materials Engineering. 
 
-🌱 Born and raised in North Brazil, at the heart of the Brazilian Amazon Forest, I have a unique perspective and passion for technology and innovation. My journey in engineering began at a young age and has taken me across the globe.
+🌱 I have worked with Brazilian multinational companies in the Oil Sector and gained valuable experience in the Banking Industry. 
+
+🌱 My affiliation with ANCORD as an autonomous investment agent has provided me with significant expertise in banking and financial processes. 
+
+🌱 Currently, I serve as a Judicial Expert in Petroleum and Gas Engineering and Back-end Engineering. 
+
+🌱 Explore my projects to see the intersection of my technical and financial expertise, and feel free to reach out if you'd like to connect or collaborate!
+
+🌱 Born and raised in North Brazil, at the heart of the Brazilian Amazon Forest, I have a unique perspective and passion for technology and innovation. 
+
+🌱 My journey in engineering began at a young age and has taken me across the globe.
 
 👨🏾‍🎓 Early Professional Career:
 
