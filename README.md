@@ -8,7 +8,7 @@ Atualmente, sou Perito Judicial em Engenharia de Petróleo e Gás, abordando que
 
 👨🏾‍🎓 Laudos Técnicos:
 -
-1. Laudo de Análise de Reservatórios:
+<h1>1. Laudo de Análise de Reservatórios:</h1>
 Avaliação da capacidade produtiva de um reservatório de petróleo ou gás, incluindo modelagem de reservatórios, estimativas de volume de hidrocarbonetos e previsão de produção.
 
 2. Laudo de Perfuração e Completação:
@@ -47,9 +47,9 @@ Avaliação dos processos de separação, tratamento e refino de petróleo e gá
 -
 Aos 17 anos, ingressei em Engenharia de Petróleo na UFAM - Universidade Federal do Amazonas, em Manaus, Brasil (2013 - 2019) 🇧🇷
 
-Aos 19 anos, passei no programa internacional BRAFITEC para estudar Engenharia Química na ENSCL, em Lille, França (2015 - 2016) 🇫🇷
+Aos 19 anos, aprovado no programa BRAFITEC para estudar Engenharia Química na ENSCL, em Lille, França (2015 - 2016) 🇫🇷
 
-Estagiário no Departamento de Engenharia de Materiais da NTNU, em Trondheim, Noruega (2016) 🇳🇴
+Aos 20 anos, estagiário de pesquisa no Departamento de Engenharia de Materiais da NTNU, em Trondheim, Noruega (2016) 🇳🇴
 
 Trabalhei em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas em várias cidades (2018-2022) 🇧🇷
 
@@ -57,7 +57,7 @@ Engenheiro de Back-end na Franquia Chiqueolatte em Haia, Países Baixos (2022) �
 
 <h2>💫 Fluente em Inglês, Francês, Espanhol e Português nativo.</h2>
 
-🫶🏿 Ecossistemas de Engenharia Back-end
+🫶🏿 Conhecimentos em Engenharia Back-end
 -
 ♟️ Principais Stacks: Ecossistema Java EE, Microservices e Frameworks de Mensageria, APIs RESTful, Bancos de Dados SQL e Expertise em Computação em Nuvem.
 
