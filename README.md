@@ -1,23 +1,23 @@
 👋 Olá, você pode me chamar de Pedro Cássio
 -
-Sou Engenheiro de Petróleo e Gás com experiência internacional em Engenharia Química, Materiais e Computação, tendo trabalhado em uma multinacional brasileira do setor de petróleo, onde adquiri expertise na cadeia de produção e comercialização de derivados de petróleo. 
+Sou Engenheiro de Petróleo e Gás (CREA-PA 01010) com experiência internacional em Engenharia Química, Materiais e Computação, tendo trabalhado em uma multinacional brasileira do setor de petróleo, onde adquiri expertise na cadeia de produção e comercialização de derivados de petróleo. 
 
 Minha trajetória também inclui atuação em uma grande instituição bancária no Brasil, onde desenvolvi habilidades em transações financeiras, análise de investimentos, gestão de riscos e combate à lavagem de dinheiro. Como agente autônomo de investimentos afiliado à ANCORD, aprofundei meu conhecimento em processos bancários e financeiros. 
 
 Atualmente, sou Perito Judicial em Engenharia de Petróleo e Gás, abordando questões específicas e multidisciplinares, incluindo contratos, operações bancárias e engenharia de back-end. Nascido na Amazônia, minha paixão por tecnologia e inovação é alimentada por uma perspectiva única, moldada por uma jornada que me levou ao redor do mundo.
 
-👨🏾‍🎓 Laudos Técnicos:
--
-<h1>1. Laudo de Análise de Reservatórios:</h1>
-Avaliação da capacidade produtiva de um reservatório de petróleo ou gás, incluindo modelagem de reservatórios, estimativas de volume de hidrocarbonetos e previsão de produção.
+<h1>👨🏾‍🎓 Laudos Técnicos:</h1>
 
-2. Laudo de Perfuração e Completação:
+1. Laudo de Análise de Reservatórios: Avaliação da capacidade produtiva de um reservatório de petróleo ou gás, incluindo modelagem de reservatórios, estimativas de volume de hidrocarbonetos e previsão de produção.
+-
+
+3. Laudo de Perfuração e Completação:
 Análise das operações de perfuração, técnicas de completação, e escolha de equipamentos. Pode incluir avaliação de problemas durante a perfuração, como blowouts, stuck pipe, e outros incidentes.
 
-3. Laudo de Engenharia de Produção:
+4. Laudo de Engenharia de Produção:
 Análise dos sistemas de produção de petróleo e gás, incluindo a eficiência de bombas, válvulas, e outros equipamentos de superfície e subsuperfície. Pode incluir otimização de produção e avaliação de sistemas de elevação artificial.
 
-4. Laudo de Análise de Risco:
+5. Laudo de Análise de Risco:
 Avaliação de riscos associados a operações de petróleo e gás, como perfuração, produção, transporte e processamento. Inclui análise de segurança, mitigação de riscos e recomendações para melhorar a segurança operacional.
 
 6. Laudo de Avaliação de Impacto Ambiental:
