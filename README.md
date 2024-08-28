@@ -6,41 +6,39 @@ Minha trajetória também inclui atuação em uma grande instituição bancária
 
 Atualmente, sou Perito Judicial em Engenharia de Petróleo e Gás, abordando questões específicas e multidisciplinares, incluindo contratos, operações bancárias e engenharia de back-end. Nascido na Amazônia, minha paixão por tecnologia e inovação é alimentada por uma perspectiva única, moldada por uma jornada que me levou ao redor do mundo.
 
-<h1>👨🏾‍🎓 Laudos Técnicos:</h1>
-
-1. Laudo de Análise de Reservatórios: Avaliação da capacidade produtiva de um reservatório de petróleo ou gás, incluindo modelagem de reservatórios, estimativas de volume de hidrocarbonetos e previsão de produção.
+👨🏾‍🎓 Laudos Técnicos:
 -
+1. Laudo de Análise de Reservatórios: Avaliação da capacidade produtiva de um reservatório de petróleo ou gás, incluindo modelagem de reservatórios, estimativas de volume de hidrocarbonetos e previsão de produção.
 
-3. Laudo de Perfuração e Completação:
+2. Laudo de Perfuração e Completação:
 Análise das operações de perfuração, técnicas de completação, e escolha de equipamentos. Pode incluir avaliação de problemas durante a perfuração, como blowouts, stuck pipe, e outros incidentes.
 
-4. Laudo de Engenharia de Produção:
+3. Laudo de Engenharia de Produção:
 Análise dos sistemas de produção de petróleo e gás, incluindo a eficiência de bombas, válvulas, e outros equipamentos de superfície e subsuperfície. Pode incluir otimização de produção e avaliação de sistemas de elevação artificial.
 
-5. Laudo de Análise de Risco:
+4. Laudo de Análise de Risco:
 Avaliação de riscos associados a operações de petróleo e gás, como perfuração, produção, transporte e processamento. Inclui análise de segurança, mitigação de riscos e recomendações para melhorar a segurança operacional.
 
-6. Laudo de Avaliação de Impacto Ambiental:
+5. Laudo de Avaliação de Impacto Ambiental:
 Análise dos impactos ambientais de operações de petróleo e gás, incluindo perfuração, produção, e transporte. Este laudo pode incluir medidas de mitigação e estratégias de recuperação ambiental.
 
-7. Laudo de Avaliação de Conformidade Regulatória:
+6. Laudo de Avaliação de Conformidade Regulatória:
 Verificação do cumprimento das normas e regulamentos aplicáveis à indústria de petróleo e gás. Pode incluir auditorias de conformidade com regulamentos ambientais, de segurança e de operação.
 
-8. Laudo de Avaliação Econômica de Projetos:
+7. Laudo de Avaliação Econômica de Projetos:
 Análise da viabilidade econômica de projetos de exploração e produção de petróleo e gás, incluindo análise de custos, receitas, e retorno sobre o investimento.
 
-9. Laudo de Análise de Engenharia de Poços:
+8. Laudo de Análise de Engenharia de Poços:
 Avaliação da integridade de poços, incluindo análise de cimentação, revestimento, e completação. Pode também incluir análise de falhas em poços e recomendações para reparos.
 
-10. Laudo de Avaliação de Desempenho de Instalações:
+9. Laudo de Avaliação de Desempenho de Instalações:
 Análise do desempenho de instalações de produção, processamento e transporte de petróleo e gás. Pode incluir a avaliação de eficiência, confiabilidade, e recomendações para melhorias.
 
-11. Laudo de Engenharia de Reservatórios:
+10. Laudo de Engenharia de Reservatórios:
 Modelagem e simulação de reservatórios, análise de recuperação avançada de petróleo (EOR), e previsão de comportamento futuro do reservatório.
 
-12. Laudo de Engenharia de Processos:
+11. Laudo de Engenharia de Processos:
 Avaliação dos processos de separação, tratamento e refino de petróleo e gás, com foco em eficiência, segurança e conformidade com regulamentos.
-
 
 
 🌍 Carreira Profissional e Experiência Internacional:
