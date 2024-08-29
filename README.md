@@ -1,6 +1,6 @@
 👋 Olá, você pode me chamar de Pedro Cássio
 -
-Sou Engenheiro de Petróleo e Gás com experiência internacional em Engenharia Química, Materiais e Computação, além de ter trabalhado em uma multinacional brasileira do Setor de Petróleo, onde adquiri expertise na cadeia de produção e comercialização de derivados de petróleo. 
+Sou Engenheiro de Petróleo e Gás com experiência internacional em Engenharia Química, Materiais e Computação, além de ter trabalhado em uma multinacional brasileira do Setor de Petróleo, onde adquiri expertise na cadeia de distribuição e comercialização de derivados de petróleo. 
 
 Minha trajetória também inclui atuação em uma grande instituição bancária no Brasil, onde desenvolvi habilidades em transações financeiras, análise de investimentos, gestão de riscos e combate à lavagem de dinheiro. Como agente autônomo de investimentos afiliado à ANCORD, aprofundei meu conhecimento em processos bancários e financeiros. 
 
