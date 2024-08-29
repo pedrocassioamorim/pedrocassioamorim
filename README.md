@@ -36,8 +36,7 @@ Análise do desempenho de instalações de produção, processamento e transport
 
 10. Laudo de Eficiência Logística: Avaliação da eficiência dos processos logísticos de transporte e distribuição de combustíveis, considerando rotas, tempos de entrega, custos operacionais e otimização de recursos.
 
-11. Laudo de Engenharia de Processos:
-Avaliação dos processos de separação, tratamento e refino de petróleo e gás, com foco em eficiência, segurança e conformidade com regulamentos.
+11. Laudo de Análise de Preços de Combustíveis: Para a elaboração de um Laudo Técnico de avaliação numérica de padrões de preços de combustíveis e combate à formação de cartéis no ecossistema de distribuição de combustíveis.
 
 
 🌍 Carreira Profissional e Experiência Internacional:
