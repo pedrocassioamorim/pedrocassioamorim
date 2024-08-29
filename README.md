@@ -53,7 +53,7 @@ Trabalhei em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas e
 
 🫶🏿 Conhecimentos em Engenharia Back-end
 -
-♟️ Principais Stacks: Ecossistema Java EE, Microservices e Frameworks de Mensageria, APIs RESTful, Bancos de Dados SQL e Expertise em Computação em Nuvem.
+♟️ Techs principais: Ecossistema Java EE, Microservices e Frameworks de Mensageria, APIs RESTful, Bancos de Dados SQL e Expertise em Computação em Nuvem.
 
 <div display= "inline" >
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />   
@@ -68,7 +68,7 @@ Trabalhei em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas e
 
 
 
-🪄 Interesses: Também gosto de experimentar tecnologias como Desenvolvimento Multiplataforma em Kotlin, Modelos de Linguagem em Python, microserviços multithreaded poderosos em Golang, desenvolvimento em blockchain com Solidity e tecnologias de Front-end, como:
+🪄 Techs secundárias: Também gosto de experimentar tecnologias como Desenvolvimento Multiplataforma em Kotlin, Ciência de Dados e Modelos de Linguagem em Python, Microserviços Multithreades poderosos em Golang, desenvolvimento em Blockchain com Solidity e tecnologias de Front-end, como:
 
 <div display="inline">
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
@@ -87,7 +87,7 @@ Trabalhei em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas e
 🥷🏼 O que eu levo para sua Equipe?
 -
 
-- Expertise Técnica: Profundo entendimento dos princípios de Engenharia de Petróleo e Gás, Back-end e entendimento intrínseco do funcionamento de Sistemas Empresariais.
+- Expertise Técnica: Profundo entendimento dos princípios de Engenharia de Petróleo e Gás, Back-end, Data Science, e entendimento intrínseco do funcionamento de Sistemas Petrolíferos Empresariais.
 
 - Resolução de Problemas: Fortes habilidades analíticas para identificar e descrever problemas técnicos complexos de forma eficiente.
 
