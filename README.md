@@ -41,13 +41,13 @@ Análise do desempenho de instalações de produção, processamento e transport
 
 🌍 Carreira Profissional e Experiência Internacional:
 -
-Aos 17 anos, ingressou em Engenharia de Petróleo na UFAM - Universidade Federal do Amazonas, em Manaus, Brasil (2013 - 2019) 🇧🇷
+Aos 17 anos, ingressou em Engenharia de Petróleo e Gás na Universidade Federal do Amazonas, em Manaus, Brasil (2013 - 2019) 🇧🇷
 
 Aos 19 anos, aprovado no programa BRAFITEC para estudar Engenharia Química na ENSCL, em Lille, França (2015 - 2016) 🇫🇷
 
 Aos 20 anos, estagiário de pesquisa no Departamento de Engenharia de Materiais da NTNU, em Trondheim, Noruega (2016) 🇳🇴
 
-Aos 21 anos, fundou a PETR-AM Soluções em Engenharia, primeira Empresa Júnior do Setor de Petróleo e Gás da região Norte (2017)  🇧🇷
+Aos 21 anos, fundou a PETR-AM Soluções em Engenharia, primeira Empresa Júnior do Setor de Petróleo da região Norte (2017)  🇧🇷
 
 Trabalhou em multinacionais brasileiras como XP Inc. e Vibra Energia, baseadas em várias cidades (2018-2022) 🇧🇷
 
