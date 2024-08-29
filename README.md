@@ -34,8 +34,7 @@ Avaliação da integridade de poços, incluindo análise de cimentação, revest
 9. Laudo de Avaliação de Desempenho de Instalações:
 Análise do desempenho de instalações de produção, processamento e transporte de petróleo e gás. Pode incluir a avaliação de eficiência, confiabilidade, e recomendações para melhorias.
 
-10. Laudo de Engenharia de Reservatórios:
-Modelagem e simulação de reservatórios, análise de recuperação avançada de petróleo (EOR), e previsão de comportamento futuro do reservatório.
+10. Laudo de Eficiência Logística: Avaliação da eficiência dos processos logísticos de transporte e distribuição de combustíveis, considerando rotas, tempos de entrega, custos operacionais e otimização de recursos.
 
 11. Laudo de Engenharia de Processos:
 Avaliação dos processos de separação, tratamento e refino de petróleo e gás, com foco em eficiência, segurança e conformidade com regulamentos.
