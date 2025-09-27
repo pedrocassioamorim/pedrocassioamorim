@@ -1,4 +1,4 @@
-👋 Olá, você pode me chamar de Pedro Cássio
+👋 Hi, you can call me Pedro Cássio
 
 <div display="inline">
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
